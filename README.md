@@ -1,0 +1,7 @@
+# AI News Highlights
+
+Een dagelijks bijgewerkt overzicht van de belangrijkste AI-nieuwsberichten en trending AI-tools, automatisch samengesteld op basis van websearch.
+
+## Edities
+
+- [2026-09-07](news/2026-09-07.md)
