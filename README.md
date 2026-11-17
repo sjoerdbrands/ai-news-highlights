@@ -4,6 +4,7 @@ Een dagelijks bijgewerkt overzicht van de belangrijkste AI-nieuwsberichten en tr
 
 ## Edities
 
+- [2026-11-17](news/2026-11-17.md)
 - [2026-11-16](news/2026-11-16.md)
 - [2026-11-15](news/2026-11-15.md)
 - [2026-11-14](news/2026-11-14.md)
